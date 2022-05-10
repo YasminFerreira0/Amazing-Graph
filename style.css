@@ -1,0 +1,36 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #D2872C;
+}
+
+
+.texto {
+    position: absolute;
+    text-align: left;
+    line-height: 25px;
+    width: 50%;
+}
+h2 {
+    color: #766F68;
+    font-size: 30px;
+}
+p {
+    color: #766F68;
+}
+
+button {
+    background-color: #D2872C;
+    color: white;
+    border: none;
+    border-radius: 0.3rem;
+    padding: 10px 20px;
+}
+ .imagem{
+     position: relative;
+     width: 70%;
+     float: right;
+     background: url(./assets/team.jpg);
+ }
