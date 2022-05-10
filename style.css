@@ -1,24 +1,28 @@
 * {
     font-family: 'Roboto', sans-serif;
+    font-size: 15px;
 }
 
 h1 {
     color: #D2872C;
+    font-weight: bold;
 }
 
 
 .texto {
     position: absolute;
     text-align: left;
-    line-height: 25px;
-    width: 50%;
+    width: 60%;
+    margin-left: 10%
 }
 h2 {
     color: #766F68;
-    font-size: 30px;
+    font-size: 3em;
+    margin: 0;
 }
 p {
     color: #766F68;
+    font-size: 1.5em;
 }
 
 button {
