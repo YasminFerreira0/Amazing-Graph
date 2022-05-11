@@ -2,13 +2,32 @@
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
 }
+.menu, nav {
+    padding-top: 40px;
+}
 
 h1 {
     color: #D2872C;
     font-weight: bold;
-    padding-left: 30px;
+    padding-left: 40px;
 }
 
+nav {
+    position: absolute;
+    top: 0;
+    right: 50px;
+    
+}
+nav li {
+    display: inline;
+    margin: 0 10px 0 20px;
+    color: #766F68;
+    font-size: 1.5em;
+}
+
+main {
+    padding-top: 30px;
+}
 
 .texto {
     position: absolute;
